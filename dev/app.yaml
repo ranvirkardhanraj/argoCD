@@ -18,7 +18,7 @@ spec:
         app: app
     spec:
       containers:
-      - image: dhanrajranvirkar/argocd-app:0.2
+      - image: dhanrajranvirkar/argocd-app:0.3
         name: argocd-app
         resources: {}
 status: {}
